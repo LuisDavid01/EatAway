@@ -1,12 +1,12 @@
 
-# Proyecto de final de curso Bases de datos noSQL 🧪🥽
+# EatAway
 >[!NOTE]
 >Integrantes 🚀:
 >**Luis David Miranda Villalta**, **Participante 2**,
 >**Participante 3**, **Participante 4**.
 ***
 ## Introduccion
-TBD
+Proyecto de final de curso Bases de datos noSQL 🧪🥽
 ## Instalacion general
 1. Se requiere de tener Node v22.13 instalado en su equipo Puede descargarlo desde [la pagina oficial](https://nodejs.org/en) o bien desde el packet manager que prefiera.
 
@@ -14,7 +14,7 @@ TBD
 
 3. Clona el repositorio:
 ```bash
-git https://github.com/LuisDavid01/MongoProyecto
+git https://github.com/LuisDavid01/EatAway
 ```
 4. Revisar el archivo .env.example para ver como configurar las variables de entorno para correr el archivo
 
